@@ -1,1 +1,1 @@
- The static folder likely contains static assets like CSS, JavaScript, and images, while the templates folder probably contains HTML templates for the app.
+"An interactive real-time hand gesture recognition system built using Python, OpenCV, and MediaPipe. It detects and classifies hand landmarks from video frames for gesture recognition, laying the foundation for applications like sign language translation and touchless interfaces."
