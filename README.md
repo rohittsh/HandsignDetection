@@ -237,6 +237,6 @@ It motivates me to build more open-source projects!
 
 <div align="center">
 
-### Made with ❤️ by Rohit Kumar
+
 
 </div>
